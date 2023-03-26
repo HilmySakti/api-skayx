@@ -1,39 +1,42 @@
-# caliph-api
+# SkayX-API
 <p align="center">
-<a target="_blank" href="https://github.com/caliphdev"><img src="https://avatars.githubusercontent.com/caliphdev?s=400&u=ce99f02d685d58b2bc8b381afa7868481515dbe7&v=4" alt="" width="169" /></a>
+<a target="_blank" href="https://github.com/caliphdev"><img src="https://avatars.githubusercontent.com/caliphdev?s=400&u=ce99f02d685d58b2bc8b381afa7868481515dbe7&v=4" alt="CaliphDev" width="150" /></a>
+<a target="_blank" href="https://github.com/HilmySakti"><img src="https://avatars.githubusercontent.com/HilmySakti?s=400&u=ce99f02d685d58b2bc8b381afa7868481515dbe7&v=4" alt="HilmySakti" width="150" /></a>
 </p>
 <p align="center">
 <a target="_blank" href="https://github.com/caliphdev"><img title="Author" src="https://img.shields.io/badge/Author-Caliphdev-red.svg?style=for-the-badge&logo=github" /></a>
 <br>
-<a target="_blank" href="//npmjs.com/caliph-api"><img src="https://img.shields.io/npm/dw/caliph-api?color=yellow&label=Downloads&logo=npm&style=flat"></a>
+<a target="_blank" href="https://github.com/HilmySakti"><img title="Recode" src="https://img.shields.io/badge/Recode-HilmySakti-green.svg?style=for-the-badge&logo=github" /></a>
 <br>
-<a target="_blank" href="https://www.npmjs.com/package/caliph-api?activeTab=versions"><img src="https://img.shields.io/npm/v/caliph-api?color=green&label=version&logo=npm&style=social"></a>
+<a target="_blank" href="//npmjs.com/api-skayx"><img src="https://img.shields.io/npm/dw/api-skayx?color=yellow&label=Downloads&logo=npm&style=flat"></a>
+<br>
+<a target="_blank" href="https://www.npmjs.com/package/api-skayx?activeTab=versions"><img src="https://img.shields.io/npm/v/api-skayx?color=green&label=version&logo=npm&style=social"></a>
 </p>
 
 # Note
 
 ID<br>
 Jika Ada Bug,<br>
-Silahkan Buat [Issues](https://github.com/caliphdev/caliph-api/issues/new)
+Silahkan Buat [Issues](https://github.com/HilmySakti/api-skayx/issues/new)
 
 EN<br>
 If there are bugs,<br>
-please create [Issues](https://github.com/caliphdev/caliph-api/issues/new)
+please create [Issues](https://github.com/HilmySakti/api-skayx/issues/new)
 
 # Installation
 
 ## Latest
 
-`npm i github:caliphdev/caliph-api`
+`npm i github:hilmysakti/api-skayx
 
 ## Npm
 
-`npm i caliph-api`
+`npm i api-skayx`
 
 # Require
 
 ```js
-const api = require("caliph-api");
+const api = require("api-skayx");
 ```
 
 # Docs
