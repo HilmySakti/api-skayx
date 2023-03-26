@@ -1,7 +1,7 @@
 {
-  "name": "caliph-api",
+  "name": "api-skayx",
   "version": "1.0.0",
-  "description": "Simple API by Caliph",
+  "description": "Simple API by Caliph recode HilmySakti",
   "depecrated": false,
   "main": "index.js",
   "directories": {
@@ -24,17 +24,17 @@
     "multifunctions",
     "scrapers"
   ],
-  "homepage": "https://caliph-api.js.org/",
+  "homepage": "https://api.skayx.my.id",
   "author": {
-    "name": "caliphdev",
-    "email": "admin@caliph.my.id"
+    "name": "HilmySakti",
+    "email": "hilmysakti@skayx.my.id"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/caliphdev/caliph-api.git"
+    "url": "git+https://github.com/HilmySakti/api-skayx.git"
   },
   "bugs": {
-    "url": "https://github.com/caliphdev/caliph-api/issues"
+    "url": "https://github.com/HilmySakti/api-skayx/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
